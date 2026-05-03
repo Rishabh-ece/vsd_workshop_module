@@ -36,6 +36,8 @@ Implementation of a basic multiplexer along with a testbench to verify functiona
 
 ### 🔧 Synthesis Output
 ![MUX Yosys](good_mux_show.png)
+### Code
+![MUX Code](good_mux_code.png)
 
 ---
 
@@ -109,5 +111,3 @@ Demonstrates modular design by integrating submodules within a top-level module.
 
 ---
 
-## 📌 Note
-This repository is part of my learning journey in VLSI and FPGA design, focusing on practical implementation and tool-based verification.
